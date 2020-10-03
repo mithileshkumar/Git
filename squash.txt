@@ -1,0 +1,3 @@
+To combine multiple commits into one.
+
+Note: Only commit history will get combined and not code changes
